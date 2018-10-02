@@ -35,3 +35,5 @@ It is possible to override some options to customize the html that will be gener
 * rootClose: default `</ul>`
 * childOpen: default `<li>`
 * childClose: default `</li>`
+* activeClass: default `null`
+* linkClass: default `null`
